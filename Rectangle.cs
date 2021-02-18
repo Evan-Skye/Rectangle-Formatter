@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RectangleFormatter;
 
 namespace RectangleFormatter
 {
-    class Rectangle
+    public class Rectangle
     {
         private static int NUMBER_OF_SIDES = 2;
         private int width;

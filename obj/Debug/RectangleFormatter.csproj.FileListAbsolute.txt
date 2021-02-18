@@ -5,3 +5,11 @@ F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\
 F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.csproj.CoreCompileInputs.cache
 F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.exe
 F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.pdb
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\NUnit3.TestAdapter.dll
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\NUnit3.TestAdapter.pdb
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\nunit.engine.dll
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\nunit.engine.api.dll
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\nunit.engine.core.dll
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\nunit.framework.dll
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\nunit.framework.xml
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.csproj.CopyComplete
