@@ -1,0 +1,7 @@
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\RectangleFormatter.exe.config
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\RectangleFormatter.exe
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\bin\Debug\RectangleFormatter.pdb
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.csprojAssemblyReference.cache
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.csproj.CoreCompileInputs.cache
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.exe
+F:\Users\stllr\Programming_Stuff\C#\School\Semester_4\QA\RectangleFormatter\obj\Debug\RectangleFormatter.pdb
